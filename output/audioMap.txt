@@ -1,0 +1,9 @@
+SPLISS Set generated on 8.10.2017 at 18:48
+
+--life had just begun--
+W001: intro.txt 
+W002: scene loop grow.txt 
+
+--neuronaute--
+W003: balls.txt 
+W004: bullocks.txt 
